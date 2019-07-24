@@ -1,0 +1,31 @@
+body, html{
+			margin:0;
+			padding:0;
+		}
+
+h4 {
+	padding-bottom: 1%;
+	margin-left: 10%;
+}
+h3 {
+	padding-top: 5%;
+	margin-left: 10%;
+}
+
+.barra{
+	background-color: #D3D3D3;
+}
+
+.links{
+	margin-left: 10%;
+	margin-top: 1%;
+	display:block;
+	background-color: gray;
+	text-align: center;
+	border-radius: 5px;
+	width: 100px;
+}
+
+.selecao{
+	margin-left: 5%;
+}
