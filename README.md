@@ -1,2 +1,2 @@
-# crud
-Sistema simples para guardar informações
+# Um crud Php
+Sistema simples para guardar informações feito em Php.
